@@ -1,4 +1,5 @@
 //dasdsad
 <?php
 echo "hello world";
+exit();
 ?>
